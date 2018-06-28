@@ -37,8 +37,8 @@ print_r($tree2);
 echo "</pre>";
 
 echo $str2;
-echo 'равно = ' . $tree2->runCalculation(2); //0
-echo 'равно = ' . $tree2->runCalculation(3); //-2
+echo '<br>равно = ' . $tree2->runCalculation(2); //0
+echo '<br>равно = ' . $tree2->runCalculation(3); //-2
 
 
 
